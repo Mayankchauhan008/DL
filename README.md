@@ -8,6 +8,8 @@ A curated collection of Jupyter Notebooks showcasing classic convolutional neura
 - `AlexNet_Implimentation.ipynb` – Implementation of AlexNet, demonstrating deeper CNN architecture with ReLU, dropout, and normalization.
 - `GoogLeNet_Implementation.ipynb` – Explores the inception-based GoogLeNet architecture.
 - `Transfer_Learning.ipynb` – Demonstrates how to fine-tune or utilize pre-trained models for new image classification tasks.
+- `Resnet_Implimentation.ipynb` – Implementation of the ResNet architecture using residual learning (deep residual networks).
+
 - Sequential model development notebooks:
   - `DL1.ipynb`
   - `DL2.ipynb`
@@ -15,7 +17,7 @@ A curated collection of Jupyter Notebooks showcasing classic convolutional neura
   - `DL4.ipynb`
   - `DL5_CNN_Model.ipynb`
 - Image assets:
-  - `cat.avif`, `dog.jpeg`, `versicolor.jpeg` – Example images used across notebooks for demonstration.
+  - `cat.avif`, `dog.jpeg`, `versicolor.jpeg`, `koala cat.jpeg` – Example images used across notebooks for demonstration.
 
 ---
 
