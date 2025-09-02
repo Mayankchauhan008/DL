@@ -9,6 +9,8 @@ A curated collection of Jupyter Notebooks showcasing classic convolutional neura
 - `GoogLeNet_Implementation.ipynb` – Explores the inception-based GoogLeNet architecture.
 - `Transfer_Learning.ipynb` – Demonstrates how to fine-tune or utilize pre-trained models for new image classification tasks.
 - `Resnet_Implimentation.ipynb` – Implementation of the ResNet architecture using residual learning (deep residual networks).
+- `Inception_ResNet_V1_Implementation.ipynb` – A hybrid architecture combining Inception modules with residual learning (Inception-ResNet v1).
+
 
 - Sequential model development notebooks:
   - `DL1.ipynb`
@@ -17,7 +19,7 @@ A curated collection of Jupyter Notebooks showcasing classic convolutional neura
   - `DL4.ipynb`
   - `DL5_CNN_Model.ipynb`
 - Image assets:
-  - `cat.avif`, `dog.jpeg`, `versicolor.jpeg`, `koala cat.jpeg` – Example images used across notebooks for demonstration.
+  - `cat.avif`, `dog.jpeg`, `versicolor.jpeg`, `koala cat.jpeg`, `Norwegian elkhound dog.jpeg` – Example images used across notebooks for demonstration.
 
 ---
 
